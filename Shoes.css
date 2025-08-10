@@ -275,8 +275,9 @@ text-decoration: none;
 
       @media screen and (max-width: 393px) {
          .container{
+       margin-top: -9em;
         width: 82%;
-        height:70%;
+        height:60%;
       }
   .container1{
    margin-top: -1em;
@@ -349,7 +350,7 @@ text-decoration: none;
          }
          .footer .social-icons{
            display: flex;          
-             margin-left: 1em;
+             margin-left: -33em;
              margin-top: -7em;
          }
          .ri-facebook-fill{
@@ -369,11 +370,13 @@ text-decoration: none;
                      background-color: #dadada;
                      border: 2px solid #dadada;
                      padding: 5px;
-                     margin: 0 10px ;
+                     margin: 0 14px ;
                      margin-top: 6em;
                          color:rgb(255, 255, 255);
              transition: all 0.2s ease-in-out;
                 box-shadow: 0 4px 10px rgba(0, 0, 0, 0.61);
+                           margin-left: 1em;
+
 
                   }
             .footer .social-icons a:hover{
