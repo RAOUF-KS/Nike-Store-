@@ -316,6 +316,9 @@ text-decoration: none;
          body::after{
             clip-path: circle(50% at bottom 70%);
          }
+         body::before{
+            clip-path: circle(50% at top 20%);
+         }
 
 
 
